@@ -1,0 +1,40 @@
+Evo:
+  - create editor
+    - Create titlebar buttons
+    - Make titlebar responsive
+    - Add shortcut files
+    - Add color themes
+    - create internal terminal
+    - make sidebar buttons moveable
+    - make run code button
+    - make color theme maker
+    - create extension page
+    - create an api for extension makers
+    - add context menu
+    - create Readme
+    - change logo based on color theme
+    - open sound files/image files/video files
+
+  - create a webserver for user login
+  - create cli app in rust
+  - create a website version of it
+
+
+
+Done:
+- audio player, image, videos
+- shortcuts
+- themes
+- terminal
+- updater
+- context menu
+- dialog menu
+
+
+
+help:
+-welcome
+-check update
+-license
+-shortcuts
+-devtools

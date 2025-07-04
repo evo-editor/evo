@@ -1,0 +1,32 @@
+[package]
+name = "evo"
+version = "0.1.0"
+description = "EVO Code Editor"
+authors = ["Mudu"]
+license = ""
+repository = ""
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[build-dependencies]
+tauri-build = { version = "1.5", features = [] }
+
+[profile.release]
+debug = true
+debug-assertions = true
+
+[dependencies]
+tauri = { version = "1.5", features = [ "os-all", "cli", "path-all", "dialog-all", "window-set-fullscreen", "global-shortcut-all", "window-start-dragging", "window-unmaximize", "window-maximize", "window-minimize", "window-unminimize", "window-close", "fs-all", "shell-open"] }
+tauri-plugin-oauth = "0.0.0-alpha.0"
+serde = { version = "1.0", features = ["derive"] }
+serde_json = "1.0"
+regex = "1.10.4"
+jwalk = "0.8.1"
+notify = "6.1.1"
+
+
+[features]
+# this feature is used for production builds or when `devPath` points to the filesystem
+# DO NOT REMOVE!!
+custom-protocol = ["tauri/custom-protocol"]

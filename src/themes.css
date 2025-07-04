@@ -1,0 +1,214 @@
+.solarized-dark {
+    --white: #ffffff;
+    --color-1: #002C39;
+    --color-2: #296780;
+
+
+
+
+
+
+    /* TITLEBAR */
+    --titlebar-background: var(--color-1);
+    --titlebar-border-color: solid white;
+    --titlebar-border-width: 2;
+
+    --project-title-color: var(--white);
+
+    --close-hover: #ff0000;
+    --titlebar-button-hover: var(--color-2);
+    --titlebar-button-border-color: transparent;
+    --titlebar-button-border-width: 0;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    /* SIDEBAR */
+    --sidebar-button-color: #668891;
+    --sidebar-button-hover: #cfcfcf;
+    --sidebar-button-selected: #ffffff;
+    --sidebar-background: #003847;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    /* MODAL */
+    --modal-background: #296780a2;
+    --modal-title: #ffffff;
+    --modal-hr: #ffffff;
+    --modal-close: #ffffff;
+
+
+    /* TABS */
+    --tab-color: #ffffff;
+    --tab-hover: #bdbdbd;
+    --selected-tab-color: #668891;
+
+    /* SCROLLBAR */
+}
+
+
+.one-dark {
+    --white: #ffffff;
+    --color-1: #000000;
+    --color-2: #b4c8cf;
+
+
+
+
+
+
+    /* TITLEBAR */
+    --titlebar-background: var(--color-1);
+    --titlebar-border-color: solid white;
+    --titlebar-border-width: 2;
+
+    --project-title-color: var(--white);
+
+    --close-hover: #ff0000;
+    --titlebar-button-hover: var(--color-2);
+    --titlebar-button-border-color: transparent;
+    --titlebar-button-border-width: 0;
+}
+
+
+.aura {
+    --white: #ffffff;
+    --color-1: #ffd107;
+    --color-2: #ffd518;
+
+
+
+
+
+
+    /* TITLEBAR */
+    --titlebar-background: var(--color-1);
+    --titlebar-border-color: solid white;
+    --titlebar-border-width: 2;
+
+    --project-title-color: var(--white);
+
+    --close-hover: #ff0000;
+    --titlebar-button-hover: var(--color-2);
+    --titlebar-button-border-color: transparent;
+    --titlebar-button-border-width: 0;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    /* SIDEBAR */
+    --sidebar-button-color: #668891;
+    --sidebar-button-hover: #cfcfcf;
+    --sidebar-button-selected: #ffffff;
+    --sidebar-background: #003847;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    /* MODAL */
+    --modal-background: #296780a2;
+    --modal-title: #ffffff;
+    --modal-hr: #ffffff;
+    --modal-close: #ffffff;
+
+
+    /* TABS */
+    --tab-color: #ffffff;
+    --tab-hover: #bdbdbd;
+    --selected-tab-color: #668891;
+
+    /* SCROLLBAR */
+}

@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1224.44 511">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: url(#linear-gradient-2);
+      }
+
+      .cls-2 {
+        fill: url(#linear-gradient-6);
+      }
+
+      .cls-3 {
+        fill: url(#linear-gradient-5);
+      }
+
+      .cls-4 {
+        fill: url(#linear-gradient-3);
+      }
+
+      .cls-5 {
+        fill: url(#linear-gradient);
+      }
+
+      .cls-6 {
+        fill: url(#linear-gradient-4);
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="710.65" y1="44.43" x2="1146.16" y2="44.43" gradientTransform="translate(0 300) scale(1 -1)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#00fffd"/>
+      <stop offset=".52" stop-color="#125dfd"/>
+      <stop offset="1" stop-color="#1b09b3"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="949.39" y1="93.81" x2="1002.75" y2="93.81" gradientTransform="translate(0 300) scale(1 -1)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#c810fd"/>
+      <stop offset=".23" stop-color="#bf10fd"/>
+      <stop offset=".6" stop-color="#a512fd"/>
+      <stop offset="1" stop-color="#8313fd"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-3" x1="267.97" y1="-112.45" x2="505.61" y2="-50.43" gradientTransform="translate(0 300) scale(1 -1)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#24307e"/>
+      <stop offset=".04" stop-color="#2a2998"/>
+      <stop offset=".1" stop-color="#3220bc"/>
+      <stop offset=".16" stop-color="#3818d8"/>
+      <stop offset=".22" stop-color="#3c13ec"/>
+      <stop offset=".28" stop-color="#3f10f8"/>
+      <stop offset=".34" stop-color="#400ffc"/>
+      <stop offset=".41" stop-color="#5111fc"/>
+      <stop offset=".8" stop-color="#a21bfb"/>
+      <stop offset=".97" stop-color="#c21ffb"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-4" x1="136.08" y1="77.39" x2="413.1" y2="198.87" gradientTransform="translate(0 300) scale(1 -1)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#00fbfd"/>
+      <stop offset=".04" stop-color="#01f1fd"/>
+      <stop offset=".12" stop-color="#04d5fd"/>
+      <stop offset=".22" stop-color="#09a8fc"/>
+      <stop offset=".34" stop-color="#0f6afc"/>
+      <stop offset=".36" stop-color="#115cfc"/>
+      <stop offset="1" stop-color="#c217fd"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-5" x1="132.83" y1="-5.11" x2="83.88" y2="121.77" gradientTransform="translate(0 300) scale(1 -1)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#2993c8"/>
+      <stop offset=".2" stop-color="#2797ca"/>
+      <stop offset=".39" stop-color="#23a3d0"/>
+      <stop offset=".59" stop-color="#1bb7da"/>
+      <stop offset=".78" stop-color="#10d3e7"/>
+      <stop offset=".98" stop-color="#02f7f9"/>
+      <stop offset="1" stop-color="#00fcfb"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-6" x1="129.01" y1="-49.75" x2="292.89" y2="-152.58" gradientTransform="translate(0 300) scale(1 -1)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#00fcfb"/>
+      <stop offset=".73" stop-color="#3521c1"/>
+    </linearGradient>
+  </defs>
+  <path class="cls-5" d="m711.39,292.78h99.95v24.95h-99.95v-24.95Zm99.21-50.19h-99.95v25.69h99.95v-25.69Zm0-50.64h-99.95v27.16h99.95v-27.16Zm106,83.26l-48.13-83.26h-31.45l72.93,127.7h16.98l47.54-76.18h-37.2l-20.67,31.74Zm229.56-19.78c0,36.76-29.67,66.43-66.43,66.43s-66.43-29.67-66.43-66.43,29.67-66.14,66.43-66.14,66.43,29.67,66.43,66.14Zm-26.72,0c0-21.85-17.57-39.42-39.56-39.42s-39.56,17.57-39.56,39.42,17.57,39.42,39.56,39.42c22,0,39.56-17.57,39.56-39.42Z"/>
+  <polyline class="cls-1" points="967.97 191.95 949.22 220.44 987.61 220.44 1002.66 191.95"/>
+  <polyline class="cls-4" points="281.79 400.55 478.87 284.95 478.87 365.85 281.79 481.3"/>
+  <path class="cls-6" d="m358.26,161.24l-77.51-53.29,59.94-33.95,137.44,96.99-201.07,119.73-34.25-22.44.44-41.04,115-65.99Zm-272.52-18.9l68.94,37.2,185.72-105.85-60.68-43.99"/>
+  <polyline class="cls-3" points="85.88 142.05 154.83 179.25 153.2 328.95 86.62 368.22"/>
+  <polyline class="cls-2" points="153.2 328.95 281.79 400.55 281.79 481.3 86.62 368.22"/>
+</svg>
